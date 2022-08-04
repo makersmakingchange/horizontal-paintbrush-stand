@@ -1,0 +1,57 @@
+title: Horizontal Paintbrush Stand
+description: The Horizontal Paintbrush Stand is a 3D printable stand that provides an easy
+  place to rest paintbrushes. The stand has a series of spaced horizontal slots
+  to allow several paintbrushes to be rested and swapped between. The stand has
+  a female 1/4"-20 UNC connection on the bottom so the stand can be mounted and
+  adjustably positioned using commercially available camera mounting equipment.
+intended-use: This is intended for use by artists who use their mouth to paint. The stand
+  provides a convenient, easily positionable location for paintbrushes to be
+  rested and/or swapped.
+keywords:
+  - openAT
+  - Assistive Technology
+  - 3D Printing
+  - Disability
+  - Accessibility
+  - Painter
+  - Art
+project-link: https://github.com/makersmakingchange/horizontal-paintbrush-stand
+image: https://github.com/makersmakingchange/horizontal-paintbrush-stand/blob/main/Photos/Horizontal_Paintbrush_Stands.jpg
+made: true
+made-independently: false
+license:
+  hardware: CERN-OHL-P-2.0
+  documentation: CC-BY-SA-4.0
+licensor:
+  name: Jake McIvor
+  affiliation: Neil Squire
+  email: jakem@neilsquire.ca
+okh-manifest-version: 1.0.0
+date-created: 2022-08-04
+date-updated: 2022-08-04
+manifest-author:
+  name: Jake McIvor
+  affiliation: Neil Squire
+  email: jakem@neilsquire.ca
+manifest-language: en-CA
+contributors:
+  - name: Jake McIvor
+    affiliation: Neil Squire
+    email: jakem@neilsquire.ca
+version: "1.0"
+development-stage: product
+documentation-home: https://github.com/makersmakingchange/horizontal-paintbrush-stand
+archive-download: https://github.com/makersmakingchange/horizontal-paintbrush-stand/archive/refs/heads/main.zip
+design-files:
+  - path: \Design_Files\Horizontal_Paintbrush_Stand_v1.0.f3d
+    title: Horizontal_Paintbrush_Stand_v1.0
+documentation-language: en-CA
+making-instructions:
+  - path: \Documentation\Horizontal_Paintbrush_Stand_Maker_Guide_v1.0.pdf
+    title: Horizontal Paintbrush Stand Maker Guide
+manufacturing-files:
+  - path: \Build_Files\3D_Print_Files
+    title: 3D Printing Files
+operating-instructions:
+  - path: \Documentation\Horizontal_Paintbrush_Stand_User_Guide_v1.0.pdf
+    title: Horizontal Paintbrush Stand User Guide
