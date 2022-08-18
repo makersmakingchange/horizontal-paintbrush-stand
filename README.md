@@ -29,7 +29,7 @@ If you have the skills and equipment to build a device like this and would like 
 | Maker Guide          | 1.0     | [Horizontal_Paintbrush_Stand_Maker_Guide](/Documentation/Horizontal_Paintbrush_Stand_Maker_Guide_v1.0.pdf)          |
 | Bill of Materials    | 1.0     | [Horizontal_Paintbrush_Stand_Bill_of_Materials](/Documentation/Horizontal_Paintbrush_Stand_BOM_v1.0.xlsx)           |
 | User Guide           | 1.0     | [Horizontal_Paintbrush_Stand_User_Guide](/Documentation/Horizontal_Paintbrush_Stand_User_Guide_v1.0.pdf)            |
-| Changelog            | 1.0     | [Horizontal_Paintbrush_Stand_Changelog](/Documentation/Horizontal_Paintbrush_Stand_Changelog_v1.0.pdf)              |
+| Changelog            | 1.0     | [Horizontal_Paintbrush_Stand_Changelog](/Documentation/Horizontal_Paintbrush_Stand_ChangeLog_v1.0.pdf)              |
 
 ### Design Files
 [CAD Files](/Design_Files)
