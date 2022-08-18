@@ -1,7 +1,7 @@
 #  Horizontal Paintbrush Stand
 This is a paintbrush stand designed for use by a Mouth Painter. The Horizontal Paintbrush Stand has a series of spaced horizontal slots to rest the brush during use and enable the painter to switch between brushes independently. The stand has a female 1/4"-20 UNC connection for mounting using commercially available camera mounting equipment.
 
-<img src="Photos/Paintbrush-Stands.jpg" width="500" alt="Picture of two Horizontal Paintbrush Stands. Each stand is mounted to a table using a Magic Arm, a C-Clamp mounting Adapter, and a C-Clamp.">
+<img src="Photos/Horizontal_Paintbrush_Stands.jpg" width="500" alt="Picture of two Horizontal Paintbrush Stands. Each stand is mounted to a table using a Magic Arm, a C-Clamp mounting Adapter, and a C-Clamp.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/horizontal-paintbrush-stand/)
