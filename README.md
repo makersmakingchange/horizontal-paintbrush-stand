@@ -25,11 +25,11 @@ If you have the skills and equipment to build a device like this and would like 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 0.2     | [Horizontal-Paintbrush-Stand__Design_Rationale](/Documentation/Horizontal-Paintbrush-Stand_Design_Rationale_v0.2.pdf)  |
-| Maker Guide          | 0.2    | [Horizontal-Paintbrush-Stand__Maker_Checklist](/Documentation/Horizontal-Paintbrush-Stand_Maker_Checklist_v0.2.pdf)    |
-| Bill of Materials    | 0.2     | [Horizontal-Paintbrush-Stand__Bill_of_Materials](/Documentation/Horizontal-Paintbrush-Stand_BOM_v0.2.xlsx)             |
-| User Guide           | 0.2     | [Horizontal-Paintbrush-Stand__User_Guide](/Documentation/Horizontal-Paintbrush-Stand_Quick_Guide_v0.2.pdf)   |
-| Changelog            | 0.2     | [Horizontal-Paintbrush-Stand__Changelog](/Documentation/Horizontal-Paintbrush-Stand_Changelog_v0.2.pdf)                |
+| Design Rationale     | 1.0     | [Horizontal-Paintbrush-Stand__Design_Rationale](/Documentation/Horizontal-Paintbrush-Stand_Design_Rationale_v1.0.pdf)  |
+| Maker Guide          | 1.0    | [Horizontal-Paintbrush-Stand__Maker_Checklist](/Documentation/Horizontal-Paintbrush-Stand_Maker_Checklist_v1.0.pdf)    |
+| Bill of Materials    | 1.0     | [Horizontal-Paintbrush-Stand__Bill_of_Materials](/Documentation/Horizontal-Paintbrush-Stand_BOM_v1.0.xlsx)             |
+| User Guide           | 1.0     | [Horizontal-Paintbrush-Stand__User_Guide](/Documentation/Horizontal-Paintbrush-Stand_Quick_Guide_v1.0.pdf)   |
+| Changelog            | 1.0     | [Horizontal-Paintbrush-Stand__Changelog](/Documentation/Horizontal-Paintbrush-Stand_Changelog_v1.0.pdf)                |
 
 ### Design Files
 [CAD Files](/Design_Files)
